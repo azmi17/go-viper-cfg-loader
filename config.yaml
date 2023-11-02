@@ -1,0 +1,12 @@
+general:
+  this_file_type : "yaml"
+
+app:
+  name: "go-viper-cfg-loader-yaml"
+  author: "Azmi Farhan"
+  version: "1.0.2"
+
+database:
+  host: "localhost"
+  port: 3306
+  show_sql: true

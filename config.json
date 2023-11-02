@@ -1,0 +1,15 @@
+{
+    "general" : {
+    "file_type": "json"
+    },
+    "app": {
+      "name": "go-viper-cfg-loader-json",
+      "version": "1.0.0",
+      "author": "Azmi Farhan"
+    },
+    "database": {
+      "show_sql": true,
+      "host": "localhost",
+      "port": 3306
+    }
+  }
